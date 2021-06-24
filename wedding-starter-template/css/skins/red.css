@@ -1,0 +1,43 @@
+/*  pink color style    */
+
+.preloader .loader i,
+.btn-1:hover,
+.people-section .people-item-inner .social-links a i,
+.event-section .event-item-inner span,
+.story-section .story-item i,
+.story-section .story-text h3,
+.coupel-section .social-links a i,
+.coupel-section .couple i.fa-heart,
+.coupel-section .couple H3,
+body.dark .header.fixed .nav ul li a.active,
+body.dark .header .nav ul li a:hover,
+.header .nav ul li a.active,
+.header .nav ul li a:hover{
+    color: #cc3a3b;
+}
+
+.btn-1,
+.people-section .people-item-inner .social-links a i,
+.event-section .event-item-inner:before,
+.coupel-section .social-links a i,
+.coupel-section .couple img{
+    border-color: #cc3a3b;
+}
+
+.preloader .loader:before{
+    border-right: 3px solid #cc3a3b;
+}
+.setting .s-toggle-btn,
+.btn-1,
+.rsvp-section,
+.people-section .people-item-inner .social-links a:hover i,
+body.dark .people-section  .filter-btn.active,
+.people-section  .filter-btn.active,
+.event-section,
+.coupel-section .social-links a:hover i{
+    background-color: #cc3a3b;
+}
+.event-section .event-item-inner img,
+.footer .footer-content .couple-name img{
+    filter: hue-rotate(30deg);
+}
